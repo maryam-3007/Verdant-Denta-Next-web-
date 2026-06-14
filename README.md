@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Verdant Dental Oral Studio
 
-## Getting Started
+https://verdant-dental.netlify.app/
 
-First, run the development server:
+A modern, luxury dental booking ecosystem designed to provide a seamless scheduling experience. Built with Next.js, this application features a highly responsive, glassmorphic UI, dynamic specialist scheduling, and an automated digital receipt system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 Features
+Smart Booking Wizard: A step-by-step intuitive interface for booking treatments with selected specialists.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Digital Slip Generation: Instant high-resolution PNG generation of appointment details for easy saving and sharing.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Dynamic UI Elements: Beautiful, staggered text animations and ambient background effects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Patient Feedback System: Real-time feedback submission synced with the clinic's community testimonials.
 
-## Learn More
+Responsive Design: Fully optimized for mobile and desktop, featuring a glassmorphic navigation drawer.
 
-To learn more about Next.js, take a look at the following resources:
+Automated Communication: Integrated EmailJS system to trigger instant confirmation receipts to patients.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🛠 Tech Stack
+Framework: Next.js (App Router)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Styling: Tailwind CSS
 
-## Deploy on Vercel
+Animation: CSS Custom Keyframes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Image Processing: html2canvas-pro
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Communication: EmailJS
+
+📋 Usage
+Overview: View clinic stats, services, and community testimonials.
+
+Specialists: Browse the medical associates panel and select your preferred dentist.
+
+Booking: Fill in the appointment details to secure your slot.
+
+Digital Slip: After booking, download your appointment slip directly from the Success View to store on your device.
