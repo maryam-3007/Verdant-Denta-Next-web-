@@ -4,7 +4,9 @@ https://verdant-dental.netlify.app/
 
 A modern, luxury dental booking ecosystem designed to provide a seamless scheduling experience. Built with Next.js, this application features a highly responsive, glassmorphic UI, dynamic specialist scheduling, and an automated digital receipt system.
 
-Features
+
+Features:
+
 -Smart Booking Wizard: A step-by-step intuitive interface for booking treatments with selected specialists.
 
 -Digital Slip Generation: Instant high-resolution PNG generation of appointment details for easy saving and sharing.
@@ -17,7 +19,9 @@ Features
 
 -Automated Communication: Integrated EmailJS system to trigger instant confirmation receipts to patients.
 
- Tech Stack
+
+ Tech Stack:
+ 
 -Framework: Next.js (App Router)
 
 -Styling: Tailwind CSS
@@ -28,7 +32,9 @@ Features
 
 -Communication: EmailJS
 
- Usage
+
+ Usage:
+ 
 -Overview: View clinic stats, services, and community testimonials.
 
 -Specialists: Browse the medical associates panel and select your preferred dentist.
